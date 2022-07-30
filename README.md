@@ -7,7 +7,7 @@
 ###  - <a href="https://pub.dev/packages/dio">Dio:</a> cliente Http para Dart.
 ###  - <a href="https://pub.dev/packages/provider">Provider:</a> para gerencia de estado.
 ###  - <a href="https://pub.dev/packages/path_provider">Path_Provider:</a> plugin Flutter para encontrar path no sistema de arquivos.
-###  - <a href="https://pub.dev/packages/hive">Hive:</a> banco de dados de valor-chave para mobile.
+###  - <a href="https://pub.dev/packages/hive">Hive:</a> banco de dados chave-valor para mobile.
 ###  - <a href="https://pub.dev/packages/hive_flutter">Hive_Flutter:</a> extensão hive.
 ###
 ### Olha só o resultado:
